@@ -20,5 +20,13 @@ We proposed a novel approach which can be used to uniquely identify a speaker th
 * LPC
   <img src="./Features/LPC/Person%203/1014.png">
 * RPLP
-   <img src="Features/RPLP/Person%204/1036.png">  
+   <img src="./Features/RPLP/Person%204/1036.png">  
   
+## Final Model :
+
+<img src="Ensemble.jpg">
+
+
+## Results of Different CNN Models:
+
+<img src="table.jpg">
