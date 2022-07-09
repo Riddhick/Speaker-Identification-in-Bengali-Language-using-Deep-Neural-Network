@@ -29,4 +29,4 @@ We proposed a novel approach which can be used to uniquely identify a speaker th
 
 ## Results of Different CNN Models:
 
-<img src="table.jpg">
+<img src="Table.jpg">
