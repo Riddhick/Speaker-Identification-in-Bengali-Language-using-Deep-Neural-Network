@@ -7,7 +7,7 @@ We proposed a novel approach which can be used to uniquely identify a speaker th
 ## Dataset:
 * Dataset is created using voice samples of 10 different speakers.
 * Each Speaker speaks either in Bengali or a mixture of Bengali and English.
-* There are 750 audio samples for each speakers .
+* There are 750 audio samples for each speakers.
 * Each audio sample lenght is 4 seconds.
 * All speaker aged between 18-60.
 * Gender ratio is 1:1.
